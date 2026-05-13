@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE83CB01-5DDA-8266-B07F-DB1EC87BDFB5}|RunCatForWinform\\RunCatForWindow.csproj|E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE83CB01-5DDA-8266-B07F-DB1EC87BDFB5}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\endlessgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\contextmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\contextmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\contextmenurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\contextmenurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|e:\\c#\u002B\\vs2026\\code\\runcatforwinform\\runcatforwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04165EC-6940-2D7F-FF7C-D0F2872619FA}|RunCatForWinform\\RunCatForWindow.csproj|solutionrelative:runcatforwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\EndlessGameForm.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "RunCatForWinform\\EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:53:43.925Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Theme.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\Theme.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Theme.cs",
+              "RelativeToolTip": "RunCatForWinform\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:29:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStatus.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\GameStatus.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\GameStatus.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\GameStatus.cs",
+              "RelativeToolTip": "RunCatForWinform\\GameStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:29:32.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Road.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Road.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\Road.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Road.cs",
+              "RelativeToolTip": "RunCatForWinform\\Road.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:29:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Cat.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\Cat.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Cat.cs",
+              "RelativeToolTip": "RunCatForWinform\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:27:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndlessGameForm.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\EndlessGameForm.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs",
+              "RelativeToolTip": "RunCatForWinform\\EndlessGameForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:39:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\EndlessGameForm.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "RunCatForWinform\\EndlessGameForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:38:59.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContextMenuRenderer.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\ContextMenuRenderer.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\ContextMenuRenderer.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\ContextMenuRenderer.cs",
+              "RelativeToolTip": "RunCatForWinform\\ContextMenuRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T04:45:48.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Program.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\Program.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\Program.cs",
+              "RelativeToolTip": "RunCatForWinform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:56:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContextMenuManager.cs",
+              "DocumentMoniker": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\ContextMenuManager.cs",
+              "RelativeDocumentMoniker": "RunCatForWinform\\ContextMenuManager.cs",
+              "ToolTip": "E:\\C#\u002B\\vs2026\\code\\RunCatForWinform\\RunCatForWinform\\ContextMenuManager.cs",
+              "RelativeToolTip": "RunCatForWinform\\ContextMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:53:31.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

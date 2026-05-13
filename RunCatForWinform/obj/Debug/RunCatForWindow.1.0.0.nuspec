@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RunCatForWindow</id>
+    <version>1.0.0</version>
+    <authors>RunCatForWindow</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\C#+\vs2026\code\RunCatForWinform\RunCatForWinform\bin\Debug\net10.0-windows\RunCatForWindow.runtimeconfig.json" target="lib\net10.0-windows7.0\RunCatForWindow.runtimeconfig.json" />
+    <file src="E:\C#+\vs2026\code\RunCatForWinform\RunCatForWinform\bin\Debug\net10.0-windows\RunCatForWindow.dll" target="lib\net10.0-windows7.0\RunCatForWindow.dll" />
+  </files>
+</package>
